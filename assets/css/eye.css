@@ -1,0 +1,10 @@
+.eyeRegion{
+    position: relative;
+}
+
+.eyeRegion .eye{
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    cursor: pointer;
+}
